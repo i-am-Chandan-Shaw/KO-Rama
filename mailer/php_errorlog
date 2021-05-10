@@ -1,0 +1,3 @@
+[10-Oct-2020 02:04:09 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/transformsolution.com/public_html/email-php/sales.php on line 4
+[10-Oct-2020 02:04:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ',' or ';' in /home/customer/www/transformsolution.com/public_html/email-php/sales.php on line 5
+[10-Oct-2020 02:07:31 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/transformsolution.com/public_html/email-php/sales.php on line 7
